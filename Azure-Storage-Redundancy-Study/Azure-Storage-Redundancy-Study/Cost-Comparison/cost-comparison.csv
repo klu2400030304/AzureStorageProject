@@ -1,0 +1,5 @@
+Redundancy,Full Form,Relative Cost,Geo-Replication,Secondary Read
+LRS,Locally Redundant Storage,Low,No,No
+ZRS,Zone-Redundant Storage,Higher than LRS,No,No
+GRS,Geo-Redundant Storage,Higher,Yes,No
+RA-GRS,Read-Access Geo-Redundant Storage,Higher,Yes,Yes
